@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "张奶奶", "age": 78, "city": "成都", "health": "H-", "economy": "E-", "family": "F-", "status": "待陪伴", "notes": "独居，需要日常陪伴" },
+  { "id": 2, "name": "王爷爷", "age": 82, "city": "武汉", "health": "H0", "economy": "E0", "family": "F-", "status": "待陪伴", "notes": "行动不便，需要陪诊" },
+  { "id": 3, "name": "李奶奶", "age": 75, "city": "西安", "health": "H+", "economy": "E-", "family": "F0", "status": "陪伴中", "notes": "正在被小赵陪伴" }
+]
